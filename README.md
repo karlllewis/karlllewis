@@ -3,22 +3,22 @@ Building practical, developer-aligned security for fast-moving teams.
 
 ---
 
-## 🚀 What I Do
-- 🔒 **Secure-by-Default Systems** — guardrails in Git, not gatekeepers in suits.  
-- 🤖 **AI + Agentic Security** — exploring how LLMs reshape both attacks and defenses.  
-- ☁️ **Cloud-Native Security** — Kubernetes, Zero Trust, and identity-first architectures.  
-- 🎤 **Global Security Culture** — Studying patterns that transcend technology
+## What I Do
+- **Secure-by-Default Systems** — guardrails in Git, not gatekeepers in suits.  
+- **AI + Agentic Security** — exploring how LLMs reshape both attacks and defenses.  
+- **Cloud-Native Security** — Kubernetes, Zero Trust, and identity-first architectures.  
+- **Global Security Culture** — Studying patterns that transcend technology
 
 ---
 
-## 🛠️ Current Projects
+## Current Projects
 - [**Cloud Native CISO**](https://cloudnativeciso.com) — A platform helping startups bake in practical cloud & AI-native security.  
 - [**Secure-by-Default Starter v1.0.0**](https://github.com/cloudnativeciso/secure-by-default-starter) — GitHub template repo for startups to ship security with their first commit.  
 - **AI Security Labs** — hands-on experiments combining GitOps, LLMOps, and modern security tooling.  
 
 ---
 
-## 🌍 Backstory
+## Backstory
 I’ve led security in boardrooms, data centers, and startups just trying to get their first enterprise customer.  
 
 At Duo Security (Cisco), I helped launch the APJC region — guiding execs and engineers through Zero Trust adoption before it had a playbook.  
@@ -29,14 +29,14 @@ Today I run **Cloud Native CISO** — helping small teams bake security into how
 
 ---
 
-## ✅ Quick Stats  
+## Quick Stats  
 
-- 🎤 Speaker & evangelist on cloud + AI-native security  
-- 🔒 CISSP, CCSP, AWS SA Pro, ISSAP, Kubestronaut 
-- 🌍 Based anywhere with WiFi (previously Singapore, Melbourne, Tokyo, San Francisco)
+- Speaker & evangelist on cloud + AI-native security  
+- CISSP, CCSP, AWS SA Pro, ISSAP, Kubestronaut 
+- Based anywhere with WiFi (previously Singapore, Melbourne, Tokyo, San Francisco)
 
 ---
-## ⚡ Tech & Tools
+## Tech & Tools
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326ce5?logo=kubernetes&logoColor=white)  
 ![Cilium](https://img.shields.io/badge/-Cilium-ffd700?logo=cilium&logoColor=black)  
 ![FluxCD](https://img.shields.io/badge/-FluxCD-1a73e8?logo=flux&logoColor=white)  
@@ -46,11 +46,11 @@ Today I run **Cloud Native CISO** — helping small teams bake security into how
 
 ---
 
-## 🤝 Let’s Connect
-- 🌐 [Cloud Native CISO](https://cloudnativeciso.com)  
-- 💼 [LinkedIn](https://linkedin.com/in/karl-lewis)  
-- 🦋 [Bluesky](https://bsky.app/profile/cloudnativeciso.com)  
-- 💻 [GitHub Projects](https://github.com/tcpninja)  
+## Let’s Connect
+- [Cloud Native CISO](https://cloudnativeciso.com)  
+- [LinkedIn](https://linkedin.com/in/karl-lewis)  
+- [Bluesky](https://bsky.app/profile/cloudnativeciso.com)  
+- [GitHub Projects](https://github.com/tcpninja)  
 
 ---
 
