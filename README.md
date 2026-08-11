@@ -1,4 +1,4 @@
-**Security Nomad | Senior Solutions Architect | Startup Ally**  
+**Security Nomad | Principal Solutions Architect**  
 Building practical, developer-aligned security for fast-moving teams.  
 
 ---
