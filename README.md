@@ -1,10 +1,10 @@
-**Security Nomad | Field CISO | Startup Ally**  
+**Security Nomad | Senior Solutions Architect | Startup Ally**  
 Building practical, developer-aligned security for fast-moving teams.  
 
 ---
 
 ## What I Do
-- **Secure-by-Default Systems** — guardrails in Git, not gatekeepers in suits.  
+- **DevSecOps** — guardrails in Git, not gatekeepers in suits.  
 - **AI + Agentic Security** — exploring how LLMs reshape both attacks and defenses.  
 - **Cloud-Native Security** — Kubernetes, Zero Trust, and identity-first architectures.  
 - **Global Security Culture** — Studying patterns that transcend technology
@@ -12,7 +12,6 @@ Building practical, developer-aligned security for fast-moving teams.
 ---
 
 ## Current Projects
-- [**Cloud Native CISO**](https://cloudnativeciso.com) — A platform helping startups bake in practical cloud & AI-native security.  
 - [**Secure-by-Default Starter v1.0.0**](https://github.com/cloudnativeciso/secure-by-default-starter) — GitHub template repo for startups to ship security with their first commit.  
 - **AI Security Labs** — hands-on experiments combining GitOps, LLMOps, and modern security tooling.  
 
