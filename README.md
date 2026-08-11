@@ -32,7 +32,7 @@ Today I run **Cloud Native CISO** — helping small teams bake security into how
 
 - Speaker & evangelist on cloud + AI-native security  
 - CISSP, CCSP, AWS SA Pro, ISSAP, Kubestronaut 
-- Based anywhere with WiFi (previously Singapore, Melbourne, Tokyo, San Francisco)
+- Based in Melbourne (previously Singapore, Tokyo, San Francisco)
 
 ---
 ## Tech & Tools
