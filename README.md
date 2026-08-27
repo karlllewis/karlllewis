@@ -3,8 +3,7 @@ Building practical, developer-aligned security for fast-moving teams.
 
 ---
 
-## What I Do
-- **DevSecOps** — guardrails in Git, not gatekeepers in suits.  
+## What I Do 
 - **AI + Agentic Security** — exploring how LLMs reshape both attacks and defenses.  
 - **Cloud-Native Security** — Kubernetes, Zero Trust, and identity-first architectures.  
 - **Global Security Culture** — Studying patterns that transcend technology
@@ -20,11 +19,9 @@ Building practical, developer-aligned security for fast-moving teams.
 ## Backstory
 I’ve led security in boardrooms, data centers, and startups just trying to get their first enterprise customer.  
 
-At Duo Security (Cisco), I helped launch the APJC region — guiding execs and engineers through Zero Trust adoption before it had a playbook.  
+At Duo Security (Cisco), I helped launch the APJC region by guiding execs and engineers through Zero Trust adoption before it had a playbook.  
 
-Then I traded suits for a backpack — three years, 12 countries, and a crash course in how different cultures build trust. That perspective now shapes how I architect security for distributed teams and AI-native startups shipping at breakneck speed.  
-
-Today I run **Cloud Native CISO** — helping small teams bake security into how they build, from the very first commit.  
+Today I help small teams bake security into how they build. 
 
 ---
 
@@ -50,4 +47,4 @@ Today I run **Cloud Native CISO** — helping small teams bake security into how
 
 ---
 
-⭐️ *If you’re building ambitious products and believe security should be leverage, not liability — let’s talk.*  
+*If you’re building ambitious products and believe security should be leverage, not liability — let’s talk.*  
