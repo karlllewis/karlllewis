@@ -33,12 +33,8 @@ Today I help small teams bake security into how they build.
 
 ---
 ## Tech & Tools
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-326ce5?logo=kubernetes&logoColor=white)  
-![Cilium](https://img.shields.io/badge/-Cilium-ffd700?logo=cilium&logoColor=black)  
-![FluxCD](https://img.shields.io/badge/-FluxCD-1a73e8?logo=flux&logoColor=white)  
-![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?logo=github-actions&logoColor=white)  
-![LLMs](https://img.shields.io/badge/-LLMs-7f5af0?logo=openai&logoColor=white)  
-![DevSecOps](https://img.shields.io/badge/-DevSecOps-00bfa5?logo=gitlab&logoColor=white)  
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326ce5?logo=kubernetes&logoColor=white)  ![Cilium](https://img.shields.io/badge/-Cilium-ffd700?logo=cilium&logoColor=black)  ![FluxCD](https://img.shields.io/badge/-FluxCD-1a73e8?logo=flux&logoColor=white)  
+![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?logo=github-actions&logoColor=white)  ![LLMs](https://img.shields.io/badge/-LLMs-7f5af0?logo=openai&logoColor=white)  ![DevSecOps](https://img.shields.io/badge/-DevSecOps-00bfa5?logo=gitlab&logoColor=white)  
 
 ---
 
