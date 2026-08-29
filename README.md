@@ -1,4 +1,4 @@
-**Security Nomad | Principal Solutions Architect**  
+**Principal Solutions Architect**  
 Building practical, developer-aligned security for fast-moving teams.  
 
 ---
@@ -12,7 +12,7 @@ Building practical, developer-aligned security for fast-moving teams.
 
 ## Current Projects
 - [**Secure-by-Default Starter v1.0.0**](https://github.com/cloudnativeciso/secure-by-default-starter) — GitHub template repo for startups to ship security with their first commit.  
-- **AI Security Labs** — hands-on experiments combining GitOps, LLMOps, and modern security tooling.  
+- [**K8s Security Labs**](https://github.com/karlllewis/cloud-native-lab) — hands-on experiments combining GitOps, LLMOps, and modern security tooling.  
 
 ---
 
@@ -27,7 +27,7 @@ Today I help small teams bake security into how they build.
 
 ## Quick Stats  
 
-- Speaker & evangelist on cloud + AI-native security  
+- Speaker & evangelist on information security  
 - CISSP, CCSP, AWS SA Pro, ISSAP, Kubestronaut 
 - Based in Melbourne (previously Singapore, Tokyo, San Francisco)
 
